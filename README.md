@@ -199,7 +199,3 @@ Interactive data exploration and churn pattern visualization.
 
 ---  
 
-## CONTRIBUTORS  
-- Zulfi Nadhia Cahyani (https://github.com/znadhiac)  
-- Liswatun Naimah (https://github.com/Liswatunnaimah)  
-- Aldino Dian Mandala Putra (https://github.com/aldino9112)  
